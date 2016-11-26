@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BmobSMS_V1.2.0_20161110">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/BmobSMS_V1.2.0_20161110.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

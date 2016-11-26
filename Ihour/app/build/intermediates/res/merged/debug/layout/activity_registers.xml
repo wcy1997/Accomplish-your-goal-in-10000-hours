@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/id_et_reg_nickname"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="8dp"
+        android:singleLine="true"
+        android:background="@drawable/login_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="请输入昵称"
+        android:textColorHint="@color/border"/>
+
+    <EditText
+        android:id="@+id/id_et_reg_password"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="8dp"
+        android:singleLine="true"
+        android:background="@drawable/login_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPassword"
+        android:hint="密码6～16位数字或字母"
+        android:textColorHint="@color/border"/>
+
+    <EditText
+        android:id="@+id/id_et_reg_password_again"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="8dp"
+        android:singleLine="true"
+        android:background="@drawable/login_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPassword"
+        android:hint="再次输入密码"
+        android:textColorHint="@color/border"/>
+
+    <Button
+        android:id="@+id/id_btn_reg"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="51dp"
+        android:layout_marginRight="51dp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:text="注册"
+        android:textSize="22dp"/>
+
+</LinearLayout>
