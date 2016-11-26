@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\libs\asmack.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="41786d823e61e19321bf39b9efe58e91d6df3bf7">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\2\asmack_0ff78ffd3c90b080e2f81c35a31366a6c6aa7be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_b6d1931934c03fe522faad4570d2fdd9275893de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.1_a7f1c41d99d82c2b95175f6b4eb5053571c1708a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_33b2c8f8e894e5f00b20342dab8edc933978a99f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_072c2aefba39598cf27affa0452ee5a6a7307e1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_05f251167da3365f14e812646a6713a40d35527f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\libs\slidelibrary.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="38af1839f579141b190ce6c3b9bc077437f8afbb">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\2\slidelibrary_67a5d22719d4feceeed0fb5065fe8982c76da737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_e5f1212dd2fcd1b17833e3e0e9a4f8b512c2dff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="83d9dd15839fc2468a3d11f68c5ed58b94f89c24">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c55e87b7c8eacde6972fef0b1b9289ff859baa48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5e0f0368c5d00c1c9d30a4464990944ab1b73ff">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4ac3340b7856ba7622700a739b2c736ffcf2dd91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_237e9fa7d7cbb585cf635733a707202dfe417252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\a\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_f777173e191b8d8a1d926790bb419b100b104142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_d5ee94eebb2139385659e2817b5793cf0c85ccd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_068efc67d588bc5e96411c154c09e535fa784dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Ihour\app\libs\BmobSMS_V1.2.0_20161110.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="41f02bac75281735dc9aa6bac4f883e652ebcdb5">
+        <dex dex="D:\Ihour\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSMS_V1.2.0_20161110_a698f7a93d29a8be15d546a614b88fcc0dc215f0\classes.dex" />
+    </item>
+
+</items>
