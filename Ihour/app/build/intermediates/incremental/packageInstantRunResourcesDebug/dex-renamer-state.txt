@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #Wed Nov 23 19:12:49 CST 2016
+=======
+#Wed Nov 23 19:57:44 CST 2016
+>>>>>>> origin/master

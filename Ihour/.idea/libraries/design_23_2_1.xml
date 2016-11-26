@@ -9,7 +9,11 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+<<<<<<< HEAD
       <root url="jar://D:/Android/a/extras/android/m2repository/com/android/support/design/23.2.1/design-23.2.1-sources.jar!/" />
+=======
+      <root url="jar://C:/android-sdk_r24.4.1-windows/android-sdk-windows/extras/android/m2repository/com/android/support/design/23.2.1/design-23.2.1-sources.jar!/" />
+>>>>>>> origin/master
     </SOURCES>
   </library>
 </component>

@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "D:\\Ihour\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+=======
+        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+>>>>>>> origin/master
     }
 ]
