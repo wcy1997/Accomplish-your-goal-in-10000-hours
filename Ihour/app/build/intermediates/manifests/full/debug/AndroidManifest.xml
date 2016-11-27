@@ -20,6 +20,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <!-- 允许读取手机状态 用于创建BmobInstallation -->
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
 
     <application
         android:allowBackup="true"
@@ -42,12 +44,13 @@
         <activity
             android:name="com.example.zl.ihour.HistoryActivity"
             android:label="历史项目" />
-        <activity
-            android:name="com.example.zl.ihour.GraphActivity"
-            android:label="我的统计" />
         <activity android:name="com.example.zl.ihour.AddActivity" />
-        <activity android:name="com.example.zl.ihour.utils.WheelViewDateActivity" />
-        <activity android:name="com.example.zl.ihour.utils.WheelViewPasswordActivity" />
+        <activity android:name="com.example.zl.ihour.ItemActivity" />
+        <activity android:name="com.example.zl.ihour.Alarm" />
+
+        <receiver
+            android:name="com.example.zl.ihour.MyReceiver"
+            android:process=":remote" />
     </application>
 
 </manifest>

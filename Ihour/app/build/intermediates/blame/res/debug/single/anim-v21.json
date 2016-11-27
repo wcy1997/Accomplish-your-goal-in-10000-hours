@@ -1,19 +1,10 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-=======
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
->>>>>>> origin/master
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

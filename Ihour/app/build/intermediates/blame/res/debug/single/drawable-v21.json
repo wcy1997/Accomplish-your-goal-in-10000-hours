@@ -1,123 +1,62 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wheel_bg.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\wheel_bg.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wheel_bg.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\wheel_bg.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wheel_val.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\wheel_val.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ripple_bg.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rounded_corners.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\rounded_corners.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_edittext.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\login_edittext.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ripple_bg.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rounded_corners.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\rounded_corners.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wheel_val.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\wheel_val.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_edittext.xml",
-        "source": "D:\\Ihour\\app\\src\\main\\res\\drawable-v21\\login_edittext.xml"
-=======
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wheel_bg.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\wheel_bg.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_edittext.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\login_edittext.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rounded_corners.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\rounded_corners.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ripple_bg.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\wheel_val.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\drawable-v21\\wheel_val.xml"
->>>>>>> origin/master
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "F:\\Android\\Ihour\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
     }
 ]

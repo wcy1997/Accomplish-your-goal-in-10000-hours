@@ -3,8 +3,6 @@
     <string-array name="alarm">
         <item>不提醒</item>
         <item>每天</item>
-        <item>工作日</item>
-        <item>周末</item>
     </string-array>
     <string-array name="amount">
         <item>不计划</item>

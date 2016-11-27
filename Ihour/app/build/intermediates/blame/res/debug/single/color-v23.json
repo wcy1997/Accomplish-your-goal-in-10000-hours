@@ -1,11 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "D:\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color-v23\\abc_color_highlight_material.xml"
-=======
-        "merged": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color-v23\\abc_color_highlight_material.xml"
->>>>>>> origin/master
+        "merged": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]

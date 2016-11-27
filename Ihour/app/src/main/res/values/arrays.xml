@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+        <item>每日</item>
+        <item>每周</item>
+    </string-array>
+    <string-array name="amount">
+        <item>不计划</item>
+        <item>15分钟</item>
+        <item>30分钟</item>
+        <item>45分钟</item>
+        <item>1小时</item>
+        <item>1.5小时</item>
+        <item>2小时</item>
+    </string-array>
+
+    <string-array name="pattern">
+        <item>懒人模式</item>
+        <item>正常模式</item>
+        <item>勤快模式</item>
+    </string-array>
+
+
+    <string-array name="alarm">
+        <item>不提醒</item>
+        <item>每天</item>
+    </string-array>
+</resources>

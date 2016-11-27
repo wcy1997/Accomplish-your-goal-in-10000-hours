@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<merger version="3"><dataSet config="main"><source path="D:\Ihour\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Ihour\app\src\debug\jniLibs"/></dataSet></merger>
-=======
-<merger version="3"><dataSet config="main"><source path="C:\AndroidStudioProjects\Ihour\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\AndroidStudioProjects\Ihour\app\src\debug\jniLibs"/></dataSet></merger>
->>>>>>> origin/master
+<merger version="3"><dataSet config="main"><source path="F:\Android\Ihour\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\Android\Ihour\app\src\debug\jniLibs"/></dataSet></merger>

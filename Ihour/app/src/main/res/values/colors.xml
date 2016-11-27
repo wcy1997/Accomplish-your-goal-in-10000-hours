@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fac814</color>
+    <color name="colorPrimaryLight">#ffdb58</color>
+    <color name="colorPrimaryDark">#eebf15</color>
+    <color name="colorAccent">#ff0d00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="yellow">#fbe70f</color>
+    <color name="gray">#ffb2b2b2</color>
+    <color name="border">#FFDBD9D9</color>
+    <color name="topic_count_unread">#aab0c6</color>
+    <color name="topic_count_read">#e5e5e5</color>
+    <color name="list_item_unread">#ff222222</color>
+    <color name="list_item_read">#ffb7b7b7</color>
+    <color name="wish_type_love">#f36b5c</color>
+    <color name="wish_type_team">#4da061</color>
+    <color name="wish_type_find">#2aaea7</color>
+    <color name="wish_type_request">#298fbc</color>
+    <color name="wish_type_give">#f78b01</color>
+    <color name="dark">#000000</color>
+</resources>

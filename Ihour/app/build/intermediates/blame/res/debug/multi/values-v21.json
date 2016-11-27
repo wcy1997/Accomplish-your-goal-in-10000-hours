@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "D:\\Ihour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
-=======
-        "outputFile": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+        "outputFile": "F:\\Android\\Ihour\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -38,11 +30,7 @@
                     "endOffset": 147
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -62,11 +50,7 @@
                     "endOffset": 2396
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,11 +71,7 @@
                     "endOffset": 2494
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -112,11 +92,7 @@
                     "endOffset": 2990
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\src\\main\\res\\values-v21\\gallery_attrs.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -137,11 +113,7 @@
                     "endOffset": 3291
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\src\\main\\res\\values-v21\\styles.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\src\\main\\res\\values-v21\\styles.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -161,11 +133,7 @@
                     "endOffset": 3382
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -184,11 +152,7 @@
                     "endOffset": 3485
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -207,11 +171,7 @@
                     "endOffset": 3588
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -230,11 +190,7 @@
                     "endOffset": 3693
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -253,11 +209,7 @@
                     "endOffset": 3800
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -276,11 +228,7 @@
                     "endOffset": 3909
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -299,11 +247,7 @@
                     "endOffset": 4018
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -322,11 +266,7 @@
                     "endOffset": 4127
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -345,11 +285,7 @@
                     "endOffset": 4236
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -368,11 +304,7 @@
                     "endOffset": 4345
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -391,11 +323,7 @@
                     "endOffset": 4452
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -414,11 +342,7 @@
                     "endOffset": 4555
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -437,11 +361,7 @@
                     "endOffset": 4674
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -461,11 +381,7 @@
                     "endOffset": 4829
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -486,11 +402,7 @@
                     "endOffset": 4984
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -510,11 +422,7 @@
                     "endOffset": 5089
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -533,11 +441,7 @@
                     "endOffset": 5210
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -556,11 +460,7 @@
                     "endOffset": 5311
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -580,11 +480,7 @@
                     "endOffset": 5458
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -605,11 +501,7 @@
                     "endOffset": 5599
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -629,11 +521,7 @@
                     "endOffset": 5702
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -652,11 +540,7 @@
                     "endOffset": 5821
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -675,11 +559,7 @@
                     "endOffset": 5928
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -698,11 +578,7 @@
                     "endOffset": 6031
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -722,11 +598,7 @@
                     "endOffset": 6186
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -747,11 +619,7 @@
                     "endOffset": 6357
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -772,11 +640,7 @@
                     "endOffset": 6506
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -797,11 +661,7 @@
                     "endOffset": 6671
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -822,11 +682,7 @@
                     "endOffset": 6828
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -847,11 +703,7 @@
                     "endOffset": 6979
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -871,11 +723,7 @@
                     "endOffset": 7098
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -895,11 +743,7 @@
                     "endOffset": 7247
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -920,11 +764,7 @@
                     "endOffset": 7396
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -944,11 +784,7 @@
                     "endOffset": 7508
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -967,11 +803,7 @@
                     "endOffset": 7655
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -991,11 +823,7 @@
                     "endOffset": 7808
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -1016,11 +844,7 @@
                     "endOffset": 7955
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -1040,11 +864,7 @@
                     "endOffset": 8030
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -1063,11 +883,7 @@
                     "endOffset": 8119
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -1086,11 +902,7 @@
                     "endOffset": 8206
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -1109,11 +921,7 @@
                     "endOffset": 8307
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -1133,11 +941,7 @@
                     "endOffset": 11375
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -1158,11 +962,7 @@
                     "endOffset": 11561
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -1183,11 +983,7 @@
                     "endOffset": 14641
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -1208,11 +1004,7 @@
                     "endOffset": 14839
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -1233,11 +1025,7 @@
                     "endOffset": 14962
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -1258,11 +1046,7 @@
                     "endOffset": 15085
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -1283,11 +1067,7 @@
                     "endOffset": 15198
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -1308,11 +1088,7 @@
                     "endOffset": 15381
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1333,11 +1109,7 @@
                     "endOffset": 15512
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1358,11 +1130,7 @@
                     "endOffset": 15713
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1382,11 +1150,7 @@
                     "endOffset": 15802
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -1405,11 +1169,7 @@
                     "endOffset": 15913
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1428,11 +1188,7 @@
                     "endOffset": 16040
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -1451,11 +1207,7 @@
                     "endOffset": 16141
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1474,11 +1226,7 @@
                     "endOffset": 16236
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1497,11 +1245,7 @@
                     "endOffset": 16359
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1520,11 +1264,7 @@
                     "endOffset": 16488
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1543,11 +1283,7 @@
                     "endOffset": 16605
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1567,11 +1303,7 @@
                     "endOffset": 16782
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1591,11 +1323,7 @@
                     "endOffset": 16881
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1615,11 +1343,7 @@
                     "endOffset": 17016
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1640,11 +1364,7 @@
                     "endOffset": 17159
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1665,11 +1385,7 @@
                     "endOffset": 17294
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1690,11 +1406,7 @@
                     "endOffset": 17413
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1715,11 +1427,7 @@
                     "endOffset": 17614
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1740,11 +1448,7 @@
                     "endOffset": 17733
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1764,11 +1468,7 @@
                     "endOffset": 17826
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1787,11 +1487,7 @@
                     "endOffset": 17937
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1810,11 +1506,7 @@
                     "endOffset": 17993
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1834,11 +1526,7 @@
                     "endOffset": 18100
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1859,11 +1547,7 @@
                     "endOffset": 18295
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1884,11 +1568,7 @@
                     "endOffset": 18406
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1909,11 +1589,7 @@
                     "endOffset": 18539
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1933,11 +1609,7 @@
                     "endOffset": 18634
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1956,11 +1628,7 @@
                     "endOffset": 18725
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1979,11 +1647,7 @@
                     "endOffset": 18816
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -2002,11 +1666,7 @@
                     "endOffset": 18933
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -2026,11 +1686,7 @@
                     "endOffset": 19072
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -2051,11 +1707,7 @@
                     "endOffset": 19585
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -2076,11 +1728,7 @@
                     "endOffset": 20110
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -2101,11 +1749,7 @@
                     "endOffset": 20790
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -2125,11 +1769,7 @@
                     "endOffset": 20847
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -2148,11 +1788,7 @@
                     "endOffset": 20905
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "D:\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "file": "C:\\AndroidStudioProjects\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
->>>>>>> origin/master
+                    "file": "F:\\Android\\Ihour\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
